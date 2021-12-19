@@ -1,5 +1,5 @@
 # CitiBike Analysis
-&nbsp;&nbsp; See xxxxx for Tableau Story
+&nbsp;&nbsp; See [link to dashboard](https://public.tableau.com/app/profile/jason.goddard/viz/CitiBikeChallengeJG310II/CitibikeStory?publish=yes) for Tableau Story
 
 ### Considerations
 
